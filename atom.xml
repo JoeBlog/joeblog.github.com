@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-08-04T21:41:25+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Joe 的博客]]></title>
+  <link href="http://JoeBlog.github.io/atom.xml" rel="self"/>
+  <link href="http://JoeBlog.github.io/"/>
+  <updated>2013-08-04T23:52:18+08:00</updated>
+  <id>http://JoeBlog.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Joe Zhou]]></name>
+    <email><![CDATA[joezhou0210@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[再不写点Code就老了]]></title>
+    <link href="http://JoeBlog.github.io/blog/2013/08/04/zai-bu-xie-dian-codejiu-lao-liao/"/>
+    <updated>2013-08-04T22:13:00+08:00</updated>
+    <id>http://JoeBlog.github.io/blog/2013/08/04/zai-bu-xie-dian-codejiu-lao-liao</id>
+    <content type="html"><![CDATA[<h2>做点工程师的事情好不好</h2>
+
+<p>这两年工作的重点都在团队建设，产品开发。倒腾到现在，基本忙的差不多了。产品面的事情，真的要靠Marketing，而我现在还不是Marketing，趁我现在还很专注在工程面，好想再倒腾一下技术方面的东西。对于我的职业生涯，总有预感可能与工程越走越远。</p>
+
+<h2>开始吧</h2>
+
+<p>今天是一个下过暴雨的周末，外面的天空明亮，带着我的烂相机和135F1.8的沉重的镜头跟三打走了一圈野狸岛回来后。就开始折腾Octopress。看能不能坚持每周写一篇文章来记录一下每个周末写Code的心情。 ^&ndash;^</p>
+]]></content>
+  </entry>
   
 </feed>
